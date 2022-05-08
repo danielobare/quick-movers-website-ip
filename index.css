@@ -53,3 +53,10 @@ a {
     text-decoration: none;
     
 }
+.s1 {
+    background-image: url("/home/danielobare/Documents/moringa_pre-prep_projects/quick-movers-website/drive/'moving 1.png'");
+    background-size: cover;
+    margin-left: 85px;
+    width: 95%;
+    height: 90vh;
+}
