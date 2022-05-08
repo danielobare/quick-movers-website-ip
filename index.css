@@ -42,3 +42,8 @@ footer {
     width: 100%;
     height: 350px;
 }
+.bottomborder {
+    border-bottom:solid grey;
+    margin-left: 100px;
+    margin-top: 60px;
+}
