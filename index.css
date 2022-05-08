@@ -1,0 +1,82 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffffff;
+}
+button {
+    cursor: pointer;
+}
+.stwt {
+    padding-left: 45px;
+    margin-left: 30px;
+    font-size:larger;
+    color: rgb(255, 255, 255);
+}
+.c1 {
+    background: #ffffff;
+    box-shadow: 20px 20px 37px #b8b8b8;
+    width: 60px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 40px;
+    border-radius: 17px;
+}
+.stli {
+    width: 500px;
+    margin-top: 0x;
+    padding-left: 64px;
+    padding-bottom: 50px;
+}
+.nb {
+    margin-left: 550px;
+    padding-top: 50px;
+}
+.cig {
+    margin-bottom: 24px;
+    border-radius: 24px;
+    margin-left: 400px;
+}
+.footer {
+    color: white;
+    background: black;
+    background: linear-gradient(black 35%);
+    width: 100%;
+    height: 350px;
+}
+
+.bottomborder {
+    border-bottom:solid grey;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+a {
+    padding-left: 60px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+.s1 {
+    background-image: url("/home/danielobare/Documents/moringa_pre-prep_projects/quick-movers-website/drive/'moving 1.png'");
+    background-size: cover;
+    margin-left: 85px;
+    width: 95%;
+    height: 90vh;
+    
+
+}
+.sty {
+    padding-left: 40px;
+    font-stretch: expanded;
+    font-size: xx-large;
+    padding-top: 100px;
+    color: #ffa600;
+    margin-left: 40px;
+}
+.ch1{
+    display: flex;
+    margin-top: 2px;
+    line-height: 2.4;
+    font-size: small;
+    flex-direction: column;
+    margin-left: 200px;
+    
+}
