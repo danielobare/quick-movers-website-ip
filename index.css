@@ -11,3 +11,12 @@ button {
     font-size:larger;
     color: rgb(255, 255, 255);
 }
+.c1 {
+    background: #ffffff;
+    box-shadow: 20px 20px 37px #b8b8b8;
+    width: 60px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 40px;
+    border-radius: 17px;
+}
