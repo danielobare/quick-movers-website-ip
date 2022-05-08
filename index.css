@@ -71,12 +71,3 @@ a {
     color: #ffa600;
     margin-left: 40px;
 }
-.ch1{
-    display: flex;
-    margin-top: 2px;
-    line-height: 2.4;
-    font-size: small;
-    flex-direction: column;
-    margin-left: 200px;
-    
-}
