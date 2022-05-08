@@ -5,3 +5,9 @@ body {
 button {
     cursor: pointer;
 }
+.stwt {
+    padding-left: 45px;
+    margin-left: 30px;
+    font-size:larger;
+    color: rgb(255, 255, 255);
+}
